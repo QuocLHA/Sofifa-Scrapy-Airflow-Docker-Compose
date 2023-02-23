@@ -5,6 +5,6 @@ Project run on Ubuntu 20.04 server.
 1. CREATE PROJECT DICRECTORY & GIT CLONE
 "mkdir sofifa"
 "cd sofifa"
-"
+"git clone https://github.com/QuocLHA/Sofifa-Scrapy-Airflow-Docker-Compose.git"
  
 2. 
