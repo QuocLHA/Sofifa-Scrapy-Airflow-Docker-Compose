@@ -10,6 +10,7 @@ Project run on Ubuntu 20.04 server.
  
 **2. RUN DOCKER-COMPOSE & AIRFLOW DAGS**
  * "docker compose up -d"  
+ * Create data/json directory into dags directory
  * "chmod -R 777 path/to/project"
  * Login Airflow at "http://localhost:8080/" with user: 'airflow', pass: 'airflow'  
 
