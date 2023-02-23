@@ -3,6 +3,8 @@ A data crawl project to get football player datasets from sofifa.com (FIFA23) in
 Project run on Ubuntu 20.04 server.
 
 1. CREATE PROJECT DICRECTORY & GIT CLONE
- -"mkdir sofifa"
- -"cd sofifa"
- -"
+"mkdir sofifa"
+"cd sofifa"
+"
+ 
+2. 
