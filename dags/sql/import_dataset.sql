@@ -1,0 +1,1 @@
+copy clean_data FROM 'players_stats.csv' DELIMITER ',' CSV HEADER;
