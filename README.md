@@ -20,3 +20,5 @@ Project run on Ubuntu 20.04 server.
 
 **4. VISUALIZATION**  
 * USE Metabase connect to PostgreSQL server refer to "https://www.digitalocean.com/community/tutorials/how-to-install-metabase-on-ubuntu-20-04-with-docker"
+* Dashboard
+* ![image](https://user-images.githubusercontent.com/108084669/234054549-2a6695a5-2fc2-4155-9ea3-dc14c9102a69.png)
